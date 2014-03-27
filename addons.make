@@ -1,0 +1,5 @@
+ofxNetwork
+ofxOsc
+ofxSvg
+ofxThreadedImageLoader
+ofxXmlSettings
